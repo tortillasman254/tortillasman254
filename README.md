@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tortillasman254
-- 👀 I’m currently working on some forgotten tools
-- 🌱 I’m currently learning python expert
-- 📫 How to reach me : add me on discord ! : ledjfou
-- ⚡ When I'm bored : I search good tools on github that are forgotten and remake them !
+- 👀 I’m currently working on IA things
+- 📫 How to reach me : crypt0_m4n on discord
+- ⚡ When I'm bored : I search good tools on the internet and try to make something cool with them
 
 <!---
 tortillasman254/tortillasman254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
